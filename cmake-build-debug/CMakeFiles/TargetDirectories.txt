@@ -1,0 +1,4 @@
+/Users/huagenda/CLionProjects/compiler/cmake-build-debug/CMakeFiles/Lexical.dir
+/Users/huagenda/CLionProjects/compiler/cmake-build-debug/CMakeFiles/Grammer.dir
+/Users/huagenda/CLionProjects/compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/huagenda/CLionProjects/compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

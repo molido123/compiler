@@ -1,0 +1,29 @@
+int main() {
+    // 初始化变量
+    int integerVar = 123; // 整型变量
+    float floatVar = 123.456; // 浮点型变量
+    char charVar = 'a'; // 字符常量
+    char stringVar[] = "Hello, World!"; // 字符串常量
+    unsigned int unsignedVar = 456; // 无符号整型变量
+
+    // 使用保留字
+    if (integerVar <= 200) {
+        // 执行条件语句
+        integerVar = 100 + 200; // 使用特殊符号 +
+    } else {
+        integerVar = 50; // 使用特殊符号 -
+    }
+
+    while (unsignedVar > 100) {
+        unsignedVar /= 2; // 使用特殊符号 /
+    }
+
+    // 输出变量值
+    printf("Integer: %d\n", integerVar);
+    printf("Float: %f\n", floatVar);
+    printf("Char: %c\n", charVar);
+    printf("String: %s\n", stringVar);
+    printf("Unsigned: %u\n", unsignedVar);
+
+    return 0;
+}
